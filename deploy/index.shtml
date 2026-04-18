@@ -9,7 +9,7 @@
     <h1>Deployment on Render</h1>
     <ul>
         <li><strong>Name: </strong>Vincent Wong</li>
-        <li><strong>GitHub Location: ></strong><a href="https://github.com/vwong207-cmd/vwong207TERP">https://github.com/vwong207-cmd/vwong207TERP</a></li>
+        <li><strong>GitHub Location: </strong><a href="https://github.com/vwong207-cmd/vwong207TERP">https://github.com/vwong207-cmd/vwong207TERP</a></li>
         <li><strong>Render Location: </strong><a href="https://vwong207terp.onrender.com">https://vwong207terp.onrender.com</a></li>
         <li><strong>Clearing Database Movies: </strong><a href="https://vwong207terp.onrender.com/clearCollection">https://vwong207terp.onrender.com/clearCollection</a></li>
         <li><strong>Inserting Movies: </strong><a href="https://vwong207terp.onrender.com/insertMovies">https://vwong207terp.onrender.com/insertMovies</a></li>
